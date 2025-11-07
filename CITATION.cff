@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it.
+title: Unitary Morphing via Density Imprint (repro pack)
+authors:
+  - family-names: Panasenko
+    given-names: Dmytro
+    orcid: "https://orcid.org/0009-0008-2249-4562"
+license: MIT
+version: 1.0.0
+date-released: 2025-11-07
+repository-code: "https://github.com/USERNAME/REPO"   # <-- update after creation
+doi: "10.5281/zenodo.TBD"                              # <-- update after Zenodo release

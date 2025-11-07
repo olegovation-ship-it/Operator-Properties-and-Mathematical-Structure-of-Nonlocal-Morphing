@@ -1,2 +1,3 @@
-# Operator-Properties-and-Mathematical-Structure-of-Nonlocal-Morphing
-“Theory and code for operator-level nonlocal morphing (density-imprint): proofs, mean-field limits, erOperator properties and math structure of nonlocal morphing — code, proofs, and reproducible figures.
+# Data
+Large datasets, if any, should be hosted on Zenodo and linked here.
+This repository keeps only small sample files sufficient to run the scripts.
