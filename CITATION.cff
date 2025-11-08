@@ -1,12 +1,30 @@
 cff-version: 1.2.0
 message: If you use this software, please cite it.
 title: Unitary Morphing via Density Imprint (repro pack)
+type: software
 authors:
   - family-names: Panasenko
     given-names: Dmytro
     orcid: "https://orcid.org/0009-0008-2249-4562"
 license: MIT
-version: 1.0.0
-date-released: 2025-11-07
-repository-code: "https://github.com/USERNAME/REPO"   # <-- update after creation
-doi: "10.5281/zenodo.TBD"                              # <-- update after Zenodo release
+repository-code: "https://github.com/olegovatic/Operator-Properties-and-Mathematical-Structure-of-Nonlocal-Morphing"
+version: "1.0.0"
+date-released: "2025-11-08"
+doi: "10.5281/zenodo.17557943"
+keywords:
+  - quantum
+  - nonlocal
+  - morphing
+  - mean-field
+  - phase-imprint
+preferred-citation:
+  type: software
+  title: Unitary Morphing via Density Imprint (repro pack)
+  authors:
+    - family-names: Panasenko
+      given-names: Dmytro
+      orcid: "https://orcid.org/0009-0008-2249-4562"
+  version: "1.0.0"
+  doi: "10.5281/zenodo.17557943"
+  url: "https://github.com/olegovatic/Operator-Properties-and-Mathematical-Structure-of-Nonlocal-Morphing"
+  year: 2025
