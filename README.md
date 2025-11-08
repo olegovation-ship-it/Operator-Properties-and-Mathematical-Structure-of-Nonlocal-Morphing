@@ -1,13 +1,12 @@
 # Operator Properties and Mathematical Structure of Nonlocal Morphing
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17557943.svg)](https://doi.org/10.5281/zenodo.17557943)
+
 Theory + code for **operator-level nonlocal morphing (density imprint)**:
 \[
 U_\alpha = \exp\!\big(i\,\alpha\,(W * |\psi|^2)\big)
 \]
 including operator properties, mean-field reduction, error bounds, and **reproducible figures**.
-
-<!-- Add the Zenodo DOI badge here after the first release -->
-<!-- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX) -->
 
 ## Quick start
 ```bash
