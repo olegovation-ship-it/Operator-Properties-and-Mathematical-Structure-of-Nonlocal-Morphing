@@ -33,7 +33,9 @@ LICENSE-CC-BY-4.0     # CC BY 4.0 (text/figures)
 ## How to cite
 
 **APA**  
-Panasenko, D. (2025). *Unitary Morphing via Density Imprint (repro pack)* (v1.0.0) [Software]. Zenodo. https://doi.org/10.5281/zenodo.17557943
+Panasenko, D. (2025). *Unitary Morphing via Density Imprint (repro pack)* (v1.0.0) [Software]. Zenodo. 
+[![DOI](https://zenodo.org/badge/DOI/<PREPRINT_DOI>.svg)](https://doi.org/<PREPRINT_DOI>)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17557943.svg)](https://doi.org/10.5281/zenodo.17557943)
 
 **BibTeX**
 ~~~bibtex
