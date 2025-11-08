@@ -10,7 +10,8 @@ license: MIT
 repository-code: "https://github.com/olegovatic/Operator-Properties-and-Mathematical-Structure-of-Nonlocal-Morphing"
 version: "1.0.0"
 date-released: "2025-11-08"
-doi: "10.5281/zenodo.17557943"
+[![DOI](https://zenodo.org/badge/DOI/<PREPRINT_DOI>.svg)](https://doi.org/<PREPRINT_DOI>)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17557943.svg)](https://doi.org/10.5281/zenodo.17557943)
 keywords:
   - quantum
   - nonlocal
